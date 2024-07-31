@@ -29,10 +29,16 @@ main{
     text-transform: lowercase;
 
     ::placeholder {color: #a8bbf0;}
-    .text-area: focus {
-        outline: none;
-       }
+    
     }
+
+
+    .text-area{
+        focus {
+            outline: none;
+           }
+
+    } 
 
     .mensaje {
         background-color: #fefafc;
