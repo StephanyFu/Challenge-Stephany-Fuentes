@@ -1,5 +1,5 @@
 *{
-    background-color: #FFC6C6;
+    background-color: #495057;
     font-family: 'Inter' ;
     font-weight: 400;
     font-size: 32px;
@@ -41,7 +41,7 @@ main{
     } 
 
     .mensaje {
-        background-color: #fefafc;
+        background-color: #d8dfe8;
         background-image: url(" Imagenes/foto.png");
         background-repeat: no-repeat;
         border: none;
